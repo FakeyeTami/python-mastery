@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="./public/banner.png" alt="Python Mastery by Tamilore Fakeye" width="100%">
-
-  <h1>Python Mastery</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4770FF&height=200&section=header&text=Python%20Mastery&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=by%20Tamilore%20Fakeye&descAlignY=58&descColor=a5b8ff&animation=fadeIn" width="100%"/>
 
 **A personal, topic-by-topic Python learning repo — from syntax to frameworks, DSA, and concurrency.**
 
